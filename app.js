@@ -1,0 +1,1 @@
+console.log('Voxta PWA loaded');
