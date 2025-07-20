@@ -1,2 +1,2 @@
-# voxta2
+# voxta
 voice to text ai
